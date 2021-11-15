@@ -249,4 +249,17 @@ a.home-link:hover {
   #pricing {
     padding: 100px 0;
   }
+
+  #testimonials {
+    height: 329px;
+  }
+
+  .carousel.slide {
+    height: 100%;
+  }
+
+  .row {
+    margin-right: 0;
+    margin-left: 0;
+  }
 }
